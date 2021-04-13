@@ -1,5 +1,4 @@
-<div align="center"> AZISSSSS
-	<center>Krada Chorapi</center>
-	<img src="https://github.com/snkolev18/snkolev18/blob/main/rsa_logo.svg">
+<div align="center">
+	<center><img src="https://github.com/snkolev18/snkolev18/blob/main/rsa_logo.svg"></center>
 	<img src="https://github.com/snkolev18/snkolev18/blob/main/info.svg">
 </div>
