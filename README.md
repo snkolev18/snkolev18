@@ -9,3 +9,8 @@ Counter?¿: <br><img src="https://profile-counter.glitch.me/SNKolev18/count.svg"
 OBICHAM IVAN
 
 <a href="https://codingburgas.org/">Spasenie?¿</a>
+
+
+
+
+Deeply in my mind I can feel the pain of being a gay person. I LOVE IT !
