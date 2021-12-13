@@ -6,4 +6,6 @@ Counter?¿: <br><img src="https://profile-counter.glitch.me/SNKolev18/count.svg"
 	Luda Po tebe
 </div>
 
+OBICHAM IVAN
+
 <a href="https://codingburgas.org/">Spasenie?¿</a>
