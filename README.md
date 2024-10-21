@@ -1,6 +1,6 @@
-Counter?¿: <br><img src="https://profile-counter.glitch.me/SNKolev18/count.svg"></img>
+<!-- Counter?¿: <br><img src="https://profile-counter.glitch.me/SNKolev18/count.svg"></img>
 
 <div align="center">
 	<center><img src="https://github.com/snkolev18/snkolev18/blob/main/rsa_logo.svg"></center><br>
 	<a href="https://www.githubstatus.com/"><center><img src="https://github.com/snkolev18/snkolev18/blob/main/info.svg"></center></a>
-</div>
+</div> -->
